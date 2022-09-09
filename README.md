@@ -4,7 +4,7 @@
 
 ## Register:
     Get 
-   	- Username 
+   	    - Username 
         - Email 
         - Password
     Check
@@ -15,7 +15,7 @@
     Create account
 ## Login:
     Get 
-    	- Username 
+    - Username 
         - Email 
         - Password
     Check if username, email, password is already existed.
