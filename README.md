@@ -1,8 +1,8 @@
 # **Bank Account**
-# 1 – Register
-# 2 – Login
+## 1 – Register
+## 2 – Login
 
-## Register:
+### Register:
    Get 
    - Username 
    - Email 
@@ -13,10 +13,10 @@
    3. If password must have one upper, number, special.
    4. If password must should not have repeat one letter in 3 times.
    Create account
-## Login:
-    Get 
-        - Username 
-        - Email 
-        - Password
-    Check if username, email, password is already existed.
-    Go to home screen.
+### Login:
+   Get 
+   - Username 
+   - Email 
+   - Password
+   Check if username, email, password is already existed.
+   Go to home screen.
