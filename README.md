@@ -1,4 +1,4 @@
-# **Bank Account**
+# Bank Account
 ## 1 – Register
 ## 2 – Login
 
