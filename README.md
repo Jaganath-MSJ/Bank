@@ -1,6 +1,6 @@
 # **Bank Account**
-# 1 – Register
-# 2 – Login
+    # 1 – Register
+    # 2 – Login
 
 ## Register:
     Get 
@@ -15,7 +15,7 @@
     Create account
 ## Login:
     Get 
-    - Username 
+        - Username 
         - Email 
         - Password
     Check if username, email, password is already existed.
