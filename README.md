@@ -4,14 +4,14 @@
 
 ### Register:
    - Get 
-     1. Username 
-     2. Email 
-     3. Password
+      1. Username 
+      2. Email 
+      3. Password
    - Check
-     1. If username and email are already not existing.
-     2. If password must have above length 8.
-     3. If password must have one upper, number, special.
-     4. If password must should not have repeat one letter in 3 times.
+      1. If username and email are already not existing.
+      2. If password must have above length 8.
+      3. If password must have one upper, number, special.
+      4. If password must should not have repeat one letter in 3 times.
    - Create account
 ### Login:
    Get 
