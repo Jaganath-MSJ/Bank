@@ -1,4 +1,4 @@
-# Bank Website
+# Bank
 ### 1 – [Register](#register)
 ### 2 – [Login](#login)
 
@@ -27,7 +27,7 @@
 ### 3 – [Invite Code](#invite-code)
 ### 4 – [Transaction](#transaction)
 ### 5 – [Display All Details](#display-all-details)
-### 6 – [Logout](#bank-website)
+### 6 – [Logout](#bank)
 
 # Bank Account:
 ### 1 – [Add Account](#add-account)
